@@ -45,5 +45,7 @@ I love creating intuitive user interfaces and building robust backend systems th
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white)
+
 
 </div>
